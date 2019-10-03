@@ -1,0 +1,11 @@
+C:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\bin\Debug\netcoreapp2.2\HungryNinja.deps.json
+C:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\bin\Debug\netcoreapp2.2\HungryNinja.runtimeconfig.json
+C:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\bin\Debug\netcoreapp2.2\HungryNinja.runtimeconfig.dev.json
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\bin\Debug\netcoreapp2.2\HungryNinja.dll
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\bin\Debug\netcoreapp2.2\HungryNinja.pdb
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\obj\Debug\netcoreapp2.2\HungryNinja.csprojAssemblyReference.cache
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\obj\Debug\netcoreapp2.2\HungryNinja.csproj.CoreCompileInputs.cache
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\obj\Debug\netcoreapp2.2\HungryNinja.AssemblyInfoInputs.cache
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\obj\Debug\netcoreapp2.2\HungryNinja.AssemblyInfo.cs
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\obj\Debug\netcoreapp2.2\HungryNinja.dll
+c:\Git\BOOTCAMP\CodingDojo\Bootcamp_secondstack\OOP\HungryNinja\obj\Debug\netcoreapp2.2\HungryNinja.pdb
